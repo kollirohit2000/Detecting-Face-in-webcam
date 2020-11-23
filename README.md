@@ -9,8 +9,8 @@ pip install dlib
 pip install face_recognition
 
 Import the libraries
-
 import cv2
+
 import face_recognition
 
 Reference your system’s webcam
